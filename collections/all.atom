@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://laojiangcooks.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://laojiangcooks.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://laojiangcooks.com/collections/all.atom"/>
+  <title> 老蔣 LAO JIANG</title>
+  <updated>2023-12-07T15:12:51+11:00</updated>
+  <author>
+    <name> 老蔣 LAO JIANG</name>
+  </author>
+  <entry>
+    <id>https://laojiangcooks.com/products/8966746636569</id>
+    <published>2023-12-07T15:12:51+11:00</published>
+    <updated>2023-12-07T15:12:51+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://laojiangcooks.com/products/lao-jiangs-loves-chilli"/>
+    <title>Lao Jiang&apos;s Loves Chilli</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            0.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://laojiangcooks.com/products/8966746636569</id>
+      <title>Default Title</title>
+      <s:price currency="AUD">0.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://laojiangcooks.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="https://laojiangcooks.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="https://laojiangcooks.com/blogs/news.atom"/>
+  <title> 老蔣 LAO JIANG - Latest blog</title>
+  <updated>2024-11-13T23:37:04+11:00</updated>
+  <author>
+    <name> 老蔣 LAO JIANG</name>
+  </author>
+  <entry>
+    <id>https://laojiangcooks.com/blogs/news/exciting-news-were-almost-there</id>
+    <published>2024-11-13T23:37:04+11:00</published>
+    <updated>2024-11-13T23:42:35+11:00</updated>
+    <link rel="alternate" type="text/html" href="https://laojiangcooks.com/blogs/news/exciting-news-were-almost-there"/>
+    <title>Exciting News – We&apos;re Almost There!</title>
+    <author>
+      <name>Lao Jiang</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>I’m so thrilled to share that we’re just a few steps away from bringing you our very first batch of crispy chilli oil! It’s been an exciting journey, and the last two months have been all about hard work and careful planning. From updating our chilli oil label, sourcing ingredients and suppliers, trialling different jar shapes and sizes, to finalising our food licence registration—it’s been a lot of work, but totally worth it!</p>
+<p>Super stoked with how the labels and jars have turned out! There are a couple of small tweaks we’ll make for the next print run, but it’s pretty much exactly what we had in mind. We can’t wait to start production and, most importantly, share our beloved crispy chilli oil with you all!</p>
+<p>For our first batch, we’ve set ourselves a goal to make—and fingers crossed, sell—100 jars of crispy chilli oil! Stay tuned for more updates in our next post. In the meantime, follow us on IG and TikTok at <strong>@laojiangcooks</strong> for all the latest!</p>
+<p> </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://laojiangcooks.com/blogs/news/six-months-later-finding-my-way-back</id>
+    <published>2024-07-19T22:54:04+10:00</published>
+    <updated>2024-07-19T22:56:27+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://laojiangcooks.com/blogs/news/six-months-later-finding-my-way-back"/>
+    <title>Six months later...Finding My Way Back</title>
+    <author>
+      <name>Lao Jiang</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p data-mce-fragment="1">After six months of searching for a solution and not a lot of progress made, I finally found the breakthrough I needed for my project.</p>
+<p data-mce-fragment="1">Over the past six months, my progress had stalled as I struggled to find a commercial kitchen for hire in my local council area. I never expected this hurdle to halt my progress. This had led me to consider registering with another council to access their commercial kitchens, but I always wanted to stay local. The trouble with registering a business in another council is that this would require me to apply for a permit to sell in my local area and not be eligible to attend regular council run business network seminars.</p>
+<p data-mce-fragment="1">Tonight, after not checking my email for many months, I logged in and was surprised to find an email from the council. Dated back in February, it revealed a hidden gem—a commercial kitchen available for hire right in my area!</p>
+<p data-mce-fragment="1">This discovery has reignited my drive. Now, I can move forward with my food handling licence and can see a clear path to being a registered food business.</p>
+<p data-mce-fragment="1">This experience has reminded me of two important things: always check my emails regularly and never let inaction hold me back again. </p>
+<p data-mce-fragment="1">Kicking on! Till next my next update, stay warm and keep well. </p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://laojiangcooks.com/blogs/news/week-1</id>
+    <published>2023-12-10T19:54:39+11:00</published>
+    <updated>2024-07-19T23:00:22+10:00</updated>
+    <link rel="alternate" type="text/html" href="https://laojiangcooks.com/blogs/news/week-1"/>
+    <title>Getting started</title>
+    <author>
+      <name>Lao Jiang</name>
+    </author>
+    <summary type="html">
+      <![CDATA[Follow our weekly blogs for updates on our adventure.<p><a class="read-more" href="https://laojiangcooks.com/blogs/news/week-1">More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p>This week marks the beginning of an exciting journey as I delve into gathering more intel and feedback on my Dad's crispy chilli oil. We've made great progress, having recently set up a Shopify website to document the journey and linking it up with a survey - we chose Jotform after some Youtubing, it was super easy and free!</p>
+<p>Next, we started with the idea of Lao Jiang Cooks as the brand name and iterated on that, eventually settling on 'Lao Jiang,' and added the tagline makes crispy chilli oil. If your wondering where the name Lao Jiang comes from? It's the direct translation of the chinese words 老蔣 (old Jiang) and is what my dad's friends affectionately call him by, with Jiang being our family name.</p>
+<p>Creating brand logo was the hardest part so far as I'm not very artistic, although it was clear in my mind that I wanted the chinese characters to be the focal point. After trialing some AI logo websites, we ended up using Canva to create a simple round logo, not doubt this needs some professional help later in our journey.</p>
+<p>Feeling accomplished and ready for more product testing next week and as always, love to hear your thoughts and comments on how we're going so far.</p>
+<p>Daddy Jiang signing out for this week.</p>]]>
+    </content>
+  </entry>
+</feed>
